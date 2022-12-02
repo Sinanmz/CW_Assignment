@@ -9,7 +9,7 @@ int main() {
     int a;
     int b;
     scanf("%d %d", &a, &b);
-
+    printf("GCD of those numbers is: %d", GCD(a, b));
 
 
 
