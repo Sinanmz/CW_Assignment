@@ -6,6 +6,9 @@ int main() {
     scanf("%s", s);
     printf("Hello %s\n", s);
     printf("Enter 2 numbers:\n");
+    int a;
+    int b;
+    scanf("%d %d", &a, &b);
 
 
 
