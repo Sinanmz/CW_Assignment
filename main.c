@@ -5,6 +5,8 @@ int main() {
     printf("Enter your name:\n");
     scanf("%s", s);
     printf("Hello %s\n", s);
+    printf("Enter 2 numbers:\n");
+
 
 
 
