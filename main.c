@@ -10,7 +10,7 @@ int main() {
     int b;
     scanf("%d %d", &a, &b);
     printf("GCD of those numbers is: %d", GCD(a, b));
-
+// a comment
 
 
 
@@ -21,5 +21,4 @@ int main() {
         return a;
     }
     return GCD(b, a%b);
-
 }
